@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #e0e0e0;
+  background-color: #c7c0b7;
   font-family: 'Open sans', sans-serif;
 
 }
@@ -27,7 +27,7 @@ h2 {
   padding-top: 40px;
   padding-bottom: 40px;
   text-align: center;
-  color: #204a13;
+  color: #2f8315;
 }
 
 h3 {
@@ -68,11 +68,13 @@ span {
 /* Pseudo-classes ------------------ */
 
 a:hover {
-  color: #6fc156;
+  color: #7fea5e;
+  background-color: rgba(1, 51, 4, 0.26);
+  
 }
 
 .footer-nav a:hover {
-  color: #6fc156;
+  color: #7fea5e;
 }
 
 
@@ -365,48 +367,6 @@ Media Queries
   display: table;
   clear: both;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
